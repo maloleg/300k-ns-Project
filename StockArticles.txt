@@ -1,0 +1,135 @@
+This paper investigates the relation between equity prices and aggregate investment in
+major European countries including France, Germany, Italy, the Netherlands and the United
+Kingdom. Increasing integration of European financial markets is likely to result in even
+stronger correlation between equity prices in different European countries. This process can
+also lead to convergence in economic development across European countries if
+developments in stock markets influence real economic components, such as investment and
+consumption. Indeed, our vector autoregressive models suggest that the positive correlation
+between changes equity prices and investment is, in general, significant. Hence, monetary
+authorities should monitor reactions of share prices to monetary policy and their
+effects on the business cycle. The dramatic increase in stock prices in the 1990s and the following crash beginning in
+2000 are evidence of the strong correlation between stock markets across countries. Recent
+literature documents the link between stock markets in the USA and the rest of the world. Integration of European
+financial markets is likely to result in even stronger correlation between equity prices in
+different European countries. This process can also lead to convergence in economic
+activities across European countries if developments in stock markets influence real
+variables, such as investment and consumption. Consequently, shocks originating in one
+European country are likely to affect other economies through the stock market, in addition
+to the conventional foreign trade channel. Furthermore, as has been discussed in the
+literature, because of the potential impact of the stock market on macroeconomic activity,
+equity price movements may be an important determinant of monetary policy.
+Correlation between share price and the real economy has been investigated and
+confirmed in the case of the US. This research empirically analysed the direct and indirect effects of the US
+stock market movements on real consumption and investment. Less work has been done,
+however, in examining other countries.
+Edison und Sløk pointed out that a ten percent increase in the stock market valuations outside
+of sectors such as technology, media, and telecommunication leads to a 2.5 percent increase of
+investment in the United Kingdom and 0.2 percent increase in the Netherlands. For Germany
+and France, the effect is negative and not significant. Whether these results can be applied
+using the national accounts data as well as the broader share index remains an open question,
+which this project seeks to address.
+The aim of this paper is to investigate the relation between equity prices and aggregate
+investment in major European countries. Several econometric approaches are used, including
+the Granger causality test and impulse-response function calculated from a vector
+autoregressive model (VAR). The results of our VAR models confirm the significant positive
+response of investment to changes in equity prices and differing elasticity across countries.
+Our empirical estimations are useful for further analyses of the impact of shocks on the
+economy such as those in the working package number 6 of this project, and are helpful in
+assessing the implications for monetary policy and monitoring business cycles. Furthermore,
+they suggest that monetary authorities should monitor the reactions of share prices to
+monetary policy and the effects of share prices on business cycles.
+The paper is organised as follows. In Section 2 we briefly review the theories of
+investment behaviour and comment on the empirical performance of the q theory. The data
+and empirical design used in our investigation are described in Section 3. Section 4 presents
+empirical estimation and testing results. Section 5 concludes. Appendices A and B describe
+in detail all of the data used in our empirical estimation and their properties. The
+misspecification tests are described in Appendix C.
+The literature on investment is dominated by two theories: the neoclassical theory
+and the q theory. The neoclassical investment theory is based on the firm’s
+maximisation of the discounted flow of profits. In the presence of a
+constant elasticity of production function, and absent adjustment costs and a
+possible substitution between capital and other variable inputs, the desired stock of
+capital is determined by output and the user cost of capital.
+An alternative to the neoclassical investment theory is the q approach The q model
+relates investment to the q variable, the ratio of the market value of firms to the replacement
+cost of their assets. The model assumes that financial market data contain
+valuable information about changing incentives to invest. Thus, an increase in the prospective
+returns of firms or a decrease in the market discount rate raise the q ratio and thereby increase
+investment. Two major drawbacks of the classical version of the q theory are: first, the
+optimal amount of current investment depends only on the current value of average q, which
+is not confirmed in empirical analysis. Second, in contrast to the neoclassical theory, the role
+of the production function is not clearly specified in the original exposition.
+Subsequent to the development of the q theory, Abel and Yoshikawa showed that it
+can be integrated into the neoclassical theory of choice by considering marginal valuations
+of capital and the optimal rate of investment to be the rate for which q-1 is equal to the
+marginal cost of installation. Later Hayashi modified
+the q theory by introduction of marginal q (associated with investment in the new capital)
+and distinguished it from average q (associated with the existing capital).
+He showed that sometimes both qs can be very different and the marginal rather than the
+average q is the central determinant of investment.
+The q theory of investment has some theoretical advantages over the Jorgenson
+neoclassical model. The q theory is robust to the Lucas critique. In fact, the q theory is
+forward-looking rather than being based on current and past economic developments because
+the market valuation of firms used to compute q variable contains business expectations in the
+future and thereby information about changing incentives of the firms to invest. The next
+advantage of q theory is that it allows output to be endogenously determined and variable.
+Despite its theoretical advantages, the q theory of investment behaviour has not
+performed well in empirical analyses, especially with aggregate data. Although most of the
+previous studies find that investment is significantly related to q, only a small part of variation
+in investment is explained by q, and serial correlation of the unexplained part is common.
+Furthermore, other variables that do not belong to the standard q theory – demand variables
+and interest rates in particular – appear to affect investment significantly as well. In other
+words, q itself is not sufficient to explain investment. To explain the poor empirical performance of the q investment equation, the following
+four reasons are often cited in literature: the unobservable marginal q, aggregation problems,
+mismeasurement of capital stock, and mispricing on the stock market. Because the marginal q
+is unobservable, empirical researchers tend to use the observable average q. Hayashi proved
+that the average q is equal to the marginal q only under strict assumptions: that the
+production function is linearly homogeneous in capital and labour, the adjustment cost
+function is linearly homogeneous in investment and capital, and the real price of investment
+goods, real wages, and interest rates are exogenous to the firm. A possible reason for the poor performance of the q investment equation may lie in
+inconsistencies between the investment behaviour of individual firms and alternative
+aggregate representations. In general, capital markets are not perfect; a
+firm's investment decisions depend on its financial condition, such as the availability of
+internal financing, access to new debt, equity finance or credit markets. Behr and
+Bellgardt document that the larger the firm, the less its investment ratio is influenced by
+average q. Not only the fundamental part of share prices, but also the non-fundamentals contain
+information that is relevant for investment in real capital. Galeotti and Schianterelli pointed
+out in their empirical approach that non-fundamentals are significant explanatory factors for
+investment. Morck, Shleifer and Vishny also argued that
+share prices always influence investment, regardless of whether they meet their fundamental
+value or are just part of a speculative bubble or fad. Share prices are thus more important than
+the q variable. Aside from the q theory, movements of share price can play other roles that
+influence investment decision, through active signals, financing costs, or market pressure on
+managers. The signalling hypothesis assumes that the share index gives managers signals about
+business expectations in the economy as a whole. If managers’ expectations are the same as
+the stock market signals, the movements in the share price index do not deliver any additional
+useful information or signal the need to make investment decisions. In this case, the share
+price index provides only passive information reflecting managers’ expectations but not
+influencing them. It is an active informant and sends signals that influence managers’
+decisions only if their expectations differ from what they observe on the stock markets. The financing hypothesis assumes that the stock market is not completely efficient and
+managers use its swings to finance investments at convenient capital cost. Brainard and Tobin
+argue managers react to potentially irrational movements in the market by financing
+expansion either through new issues, when Q exceeds one, or through mergers and
+acquisitions, when Q is less than one. From the finance
+perspective, rational managers issue equity when equity is overpriced and issue debt or
+finance internally when equity is not overpriced. In our investigations of the dynamics of aggregate equipment investment and total
+fixed investment, we use the following variables: real share performance index, real gross
+domestic product as a proxy for output, and real long-term interest rates. We use seasonally
+adjusted quarterly data between 1980 and 2004. Apart from the long-term interest rates,
+all the variables are in logs. In order to reduce the effect of aggregation, we use the broad
+share performance index of MSCI. While in some theoretical models net investment is a
+dependent variable, the investment variable used in our estimation is gross investment, which
+consists of expenditures on capital goods. Since the available measures of depreciation are
+often quite arbitrary, the choice of gross investment in most empirical estimations is
+dictated by the availability of data. A detailed description of all data is given in
+Appendix A. The unit-root test results in Appendix B indicate that all of the series are
+integrated of order one, I(1). The VAR model has some practical advantages over a structural model. Above all, the
+underlying theoretical framework does not have to be completely specified. This is important
+since there is no general agreement on how to specify the structure of aggregate investment
+models precisely, as discussed in the previous section. An additional advantage of the VAR
+model is that all variables are treated as potentially endogenous, since each is related to its
+own lags and the lags of all other variables in the system. Of course, in the VAR model, there
+is no identifying structure; therefore the system itself is inapplicable to causal interpretation
+of possible links among the variables. For this, we use the results of the Granger causality
+test. After estimating the model and doing the Granger causality test, we conduct impulseresponse analyses to represent the change in investment resulting from the innovation in share
+index.
